@@ -1,0 +1,10 @@
+%\chapter{Conclusioni}\label{ch:conclusioni}
+\chapter*{Conclusioni}
+\markboth{Conclusioni}{Conclusioni}
+\addcontentsline{toc}{chapter}{Conclusioni}
+
+A seguito degli esperimenti condotti, abbiamo osservato che tutti e tre i modelli (YOLOv8, YOLO-World e RT-DETR) hanno mostrato miglioramenti significativi nelle prestazioni quando sottoposti a un normale fine-tuning sul dataset termico. Tuttavia, un processo di data augmentation incoerente rispetto al dataset ha prodotto un generale abbassamento delle prestazioni, nonostante l'aumento della dimensione del subset di training.
+
+Effettuando una data augmentation corretta e mirata per il dataset termico, solo YOLOv8 ha mostrato miglioramenti sostanziali, ragione per cui ritengo che la causa principale delle peggiori prestazioni di YOLO-World e RT-DETR sia la loro maggiore complessità, la quale potrebbe richiedere una gestione più sofisticata delle augmentations o una maggiore quantità di dati per ottenere miglioramenti significativi. Escludo che le performance inferiori dei due modelli siano dovute alle trasformazioni usate nella seconda data augmentation, in quanto si sarebbero dovuti manifestare peggioramenti anche nelle metriche di YOLOv8. 
+
+Grazie ai risultati ottenuti con la versione "Nano" di YOLOv8, abbiamo determinato che l'ottava versione di YOLO è la tipologia di modello che meglio si adatta all'Object Detection di immagini termiche. Pertanto, ho addestrato la versione "Large" di YOLOv8, ottenendo così il modello ottimale per l'obiettivo che ci eravamo prefissati.

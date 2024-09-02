@@ -1,0 +1,237 @@
+\begin{thebibliography}{10}
+
+\bibitem{44}
+Albumentations.
+\newblock \url{https://albumentations.ai/}.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{22}
+Comprehensive guide to ultralytics yolov5.
+\newblock \url{https://docs.ultralytics.com/yolov5/}.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{39}
+Dataset termico flir per l'addestramento di algoritmi.
+\newblock \url{https://www.flir.it/oem/adas/adas-dataset-form/}.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{1}
+Exploring object detection applications.
+\newblock \url{https://deeplobe.ai/exploring-object-detection-applications-and-benefits}.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{13}
+Getting started with ssd multibox detection.
+\newblock \url{https://it.mathworks.com/help/vision/ug/getting-started-with-ssd.html}.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{12}
+How single-shot detector (ssd) works?
+\newblock \url{https://developers.arcgis.com/python/guide/how-ssd-works}.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{43}
+Model training with ultralytics yolo.
+\newblock \url{https://docs.ultralytics.com/modes/train/}.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{41}
+Model validation with ultralytics yolo.
+\newblock \url{https://docs.ultralytics.com/modes/val/}.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{32}
+Rt-detr.
+\newblock \url{https://docs.ultralytics.com/models/rtdetr/}.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{40}
+Ultralytics.
+\newblock \url{https://www.ultralytics.com/it}.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{2}
+What is feature extraction?
+\newblock \url{https://www.educative.io/answers/what-is-feature-extraction}.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{30}
+Yolo-world model.
+\newblock \url{https://docs.ultralytics.com/models/yolo-world/}.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{27}
+Yolov8.
+\newblock \url{https://docs.ultralytics.com/models/yolov8/}.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{5}
+Tuning AI.
+\newblock Introduction to yolo: Revolutionizing real-time object detection.
+\newblock \url{https://www.linkedin.com/pulse/introduction-yolo-revolutionizing-real-time-object-detection}, 2023.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{21}
+Hong-Yuan Mark~Liao Alexey~Bochkovskiy, Chien-Yao~Wang.
+\newblock Yolov4: Optimal speed and accuracy of object detection.
+\newblock 2020.
+
+\bibitem{4}
+Shilpa Ananth.
+\newblock R-cnn for object detection.
+\newblock \url{https://towardsdatascience.com/r-cnn-for-object-detection-a-technical-summary-9e7bfa8a557c}, 2019.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{17}
+Ankushsharma.
+\newblock Yolo v1 architecture.
+\newblock \url{https://medium.com/@ankushsharma2805/yolo-v1-v2-v3-architecture-1ccac0f6206e}, 2020.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{3}
+Andrea Capuano.
+\newblock Extracting features from convolutional neural networks for image retrieval.
+\newblock \url{https://medium.com/arocketman/extracting-features-from-convolutional-neural-networks-for-image-retrieval-87b5127f8a92}, 2018.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{25}
+Hong-Yuan Mark~Liao Chien-Yao~Wang, Alexey~Bochkovskiy.
+\newblock Yolov7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors.
+\newblock 2022.
+
+\bibitem{24}
+Hongliang Jiang-Kaiheng~Weng Chuyi~Li, Lulu~Li.
+\newblock Yolov6: A single-stage object detection framework for industrial applications.
+\newblock 2022.
+
+\bibitem{26}
+Jacqueline Hong-Ahmad~Daoudi Dillon~Reis, Jordan~Kupec.
+\newblock Real-time flying object detection with yolov8.
+\newblock 2023.
+
+\bibitem{9}
+Rohit Gandhi.
+\newblock R-cnn, fast r-cnn, faster r-cnn, yolo — algoritmi di rilevamento oggetti.
+\newblock \url{https://deeplearningitalia.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-algoritmi-di-rilevamento-oggetti}.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{37}
+Shiguang Shan-Xilin~Chen Gang~Zhang, Meina~Kan.
+\newblock Generative adversarial network with spatial attention for face attribute editing.
+\newblock 2018.
+
+\bibitem{8}
+Ross Girshick.
+\newblock Fast r-cnn.
+\newblock 2015.
+
+\bibitem{18}
+Ali~Farhadi Joseph~Redmon.
+\newblock Yolo9000: Better, faster, stronger.
+\newblock 2016.
+
+\bibitem{20}
+Ali~Farhadi Joseph~Redmon.
+\newblock Yolov3: An incremental improvement.
+\newblock 2018.
+
+\bibitem{14}
+Ross Girshick-Ali~Farhadi Joseph~Redmon, Santosh~Divvala.
+\newblock You only look once: Unified, real-time object detection.
+\newblock 2016.
+
+\bibitem{19}
+Rohit Kundu.
+\newblock Yolo: Algorithm for object detection explained.
+\newblock \url{https://www.v7labs.com/blog/yolo-object-detection}, 2023.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{36}
+Feng-Tsun~Chien Liang-Yao~Wang, Sau-Gee~Chen.
+\newblock Robust deep convolutional neural network against image distortions.
+\newblock 2021.
+
+\bibitem{34}
+Qunfeng~Tan Mohamed~Elgendi, Muhammad Umer~Nasir.
+\newblock The effectiveness of image augmentation in deep learning networks for detecting covid-19: A geometric transformation perspective.
+\newblock 2021.
+
+\bibitem{16}
+Joseph Redmon.
+\newblock How computers learn to recognize objects instantly.
+\newblock \url{https://www.ted.com/talks/joseph_redmon_how_computers_learn_to_recognize_objects_instantly}, 2017.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{42}
+Adrian Rosebrock.
+\newblock Intersection over union (iou) for object detection.
+\newblock \url{https://pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/}, 2016.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{6}
+Trevor Darrell Jitendra~Malik Ross~Girshick, Jeff~Donahue.
+\newblock Rich feature hierarchies for accurate object detection and semantic segmentation.
+\newblock 2014.
+
+\bibitem{7}
+shafu.eth.
+\newblock R-cnn (object detection).
+\newblock \url{https://medium.com/@selfouly/r-cnn-3a9beddfd55a}, 2019.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{35}
+Deval Shah.
+\newblock The essential guide to data augmentation in deep learning.
+\newblock \url{https://www.v7labs.com/blog/data-augmentation-guide}, 2022.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{10}
+Ross Girshick Jian~Sun Shaoqing~Ren, Kaiming~He.
+\newblock Faster r-cnn: Towards real-time object detection with region proposal networks.
+\newblock 2016.
+
+\bibitem{33}
+Sumit Singh.
+\newblock What is data augmentation.
+\newblock \url{https://www.labellerr.com/blog/what-is-data-augmentation-techniques-examples-benefits/}, 2022.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{15}
+Sumit Singh.
+\newblock Leveraging yolo object detection for accurate and efficient visual recognition.
+\newblock \url{https://www.labellerr.com/blog/why-is-the-yolo-algorithm-important/}, 2023.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{23}
+Jacob Solawetz.
+\newblock What is yolov5? a guide for beginners.
+\newblock \url{https://blog.roboflow.com/yolov5-improvements-and-evaluation/}, 2020.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{28}
+Jacob Solawetz.
+\newblock What is yolov8? the ultimate guide.
+\newblock \url{https://blog.roboflow.com/whats-new-in-yolov8/#yolov8-architecture-a-deep-dive}, 2023.
+\newblock Accessed: 2024-07-07.
+
+\bibitem{29}
+Yixiao Ge Wenyu Liu Xinggang Wang Ying~Shan Tianheng~Cheng, Lin~Song.
+\newblock Yolo-world: Real-time open-vocabulary object detection.
+\newblock 2024.
+
+\bibitem{11}
+Dumitru Erhan Christian Szegedy Scott Reed Cheng-Yang Fu Alexander C.~Berg Wei~Liu, Dragomir~Anguelov.
+\newblock Ssd: Single shot multibox detector.
+\newblock 2016.
+
+\bibitem{31}
+Shangliang Xu Jinman Wei Guanzhong Wang Qingqing Dang Yi Liu Jie~Chen Yian~Zhao, Wenyu~Lv.
+\newblock Detrs beat yolos on real-time object detection.
+\newblock 2023.
+
+\bibitem{38}
+Qiuhong Ke James~Bailey Zihan~Yang, Richard~Sinnott.
+\newblock Individual feral cat identification through deep learning.
+\newblock 2021.
+
+\end{thebibliography}

@@ -1,0 +1,16 @@
+path: /Users/leonardo/Documents/YOLO_FLIR/filtered-data
+train: images/train
+val: images/val
+
+
+# Classes
+names:
+    0: bike
+    1: car
+    2: light
+    3: motor
+    4: other vehicle
+    5: person
+    6: rider
+    7: sign
+    8: truck

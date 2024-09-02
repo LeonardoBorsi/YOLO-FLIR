@@ -1,0 +1,81 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {chapter}{Introduzione}{i}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Object Detection}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Il Problema dell'Object Detection}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Computer Vision}{1}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Object Detection}{3}{subsection.1.1.2}%
+\contentsline {subsubsection}{Feature Extraction}{4}{section*.3}%
+\contentsline {subsubsection}{Bounding Box Prediction e Classification}{6}{section*.4}%
+\contentsline {subsubsection}{Non-Maximum Suppression}{9}{section*.5}%
+\contentsline {section}{\numberline {1.2}Modelli per l'Object Detection}{10}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}R-CNN e Varianti}{10}{subsection.1.2.1}%
+\contentsline {subsubsection}{R-CNN}{10}{section*.6}%
+\contentsline {subsubsection}{Fast R-CNN}{11}{section*.7}%
+\contentsline {subsubsection}{Faster R-CNN}{12}{section*.8}%
+\contentsline {subsection}{\numberline {1.2.2}SSD}{14}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}YOLO}{15}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}Applicazioni dell'Object Detection}{17}{section.1.3}%
+\contentsline {chapter}{\numberline {2}YOLO}{18}{chapter.2}%
+\contentsline {section}{\numberline {2.1}You Only Look Once}{18}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Evoluzione di YOLO}{20}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}YOLOv1}{20}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}YOLOv2}{22}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}YOLOv3}{23}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}YOLOv4}{24}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}YOLOv5}{26}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}YOLOv6}{27}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.7}YOLOv7}{28}{subsection.2.2.7}%
+\contentsline {section}{\numberline {2.3}Modelli utilizzati}{29}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}YOLOv8}{29}{subsection.2.3.1}%
+\contentsline {subsubsection}{Miglioramenti introdotti}{29}{section*.9}%
+\contentsline {subsubsection}{Architettura}{31}{section*.10}%
+\contentsline {subsection}{\numberline {2.3.2}YOLO-World}{33}{subsection.2.3.2}%
+\contentsline {subsubsection}{Open-Vocabulary Object Detection}{33}{section*.11}%
+\contentsline {subsubsection}{Innovazioni introdotte}{34}{section*.12}%
+\contentsline {subsubsection}{Architettura}{34}{section*.13}%
+\contentsline {subsection}{\numberline {2.3.3}RT-DETR}{36}{subsection.2.3.3}%
+\contentsline {subsubsection}{Caratteristiche principali}{36}{section*.14}%
+\contentsline {subsubsection}{Architettura}{36}{section*.15}%
+\contentsline {chapter}{\numberline {3}Data Augmentation}{38}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduzione alla Data Augmentation}{38}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Definizione}{38}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Scopo}{39}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Tecniche di Data Augmentation}{40}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Tecniche Base di Data Augmentation}{40}{subsection.3.2.1}%
+\contentsline {subsubsection}{Trasformazioni Geometriche}{40}{section*.16}%
+\contentsline {subsubsection}{Modifiche dei Colori}{41}{section*.17}%
+\contentsline {subsubsection}{Distorsioni e Rumore}{42}{section*.18}%
+\contentsline {subsection}{\numberline {3.2.2}Tecniche Avanzate di Data Augmentation}{44}{subsection.3.2.2}%
+\contentsline {subsubsection}{Augmentation tramite GAN}{44}{section*.19}%
+\contentsline {subsubsection}{Mixup, Cutout e Cutmix}{45}{section*.20}%
+\contentsline {chapter}{\numberline {4}Sperimentazione e Risultati}{46}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Obiettivo}{46}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Preparazione del dataset}{47}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Dataset termico FLIR}{47}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Estrazione e Formattazione dei subset}{48}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Analisi delle classi}{50}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Nuovo dataset filtrato}{51}{subsection.4.2.4}%
+\contentsline {section}{\numberline {4.3}Modelli di partenza}{52}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Ultralytics}{52}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Modelli di Ultralytics utilizzati}{52}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Valutazione dei modelli}{53}{subsection.4.3.3}%
+\contentsline {subsubsection}{Metriche}{53}{section*.21}%
+\contentsline {subsection}{\numberline {4.3.4}Test dei modelli non addestrati}{55}{subsection.4.3.4}%
+\contentsline {section}{\numberline {4.4}Addestramento su dataset filtrato}{57}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Addestramento dei modelli}{57}{subsection.4.4.1}%
+\contentsline {subsubsection}{Parametri}{57}{section*.22}%
+\contentsline {subsubsection}{Augmentations}{58}{section*.23}%
+\contentsline {subsection}{\numberline {4.4.2}Test dei modelli addestrati sul dataset filtrato}{59}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}Addestramento su dataset aumentato}{62}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Albumentations}{62}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Prima Data Augmentation}{63}{subsection.4.5.2}%
+\contentsline {subsubsection}{Primo dataset aumentato}{63}{section*.24}%
+\contentsline {subsubsection}{Test modelli addestrati sul primo dataset aumentato}{65}{section*.25}%
+\contentsline {subsection}{\numberline {4.5.3}Seconda Data Augmentation}{68}{subsection.4.5.3}%
+\contentsline {subsubsection}{Secondo dataset aumentato}{68}{section*.26}%
+\contentsline {subsubsection}{Test modelli addestrati sul secondo dataset aumentato}{70}{section*.27}%
+\contentsline {subsubsection}{Ulteriore addestramento sul secondo dataset aumentato}{73}{section*.28}%
+\contentsline {section}{\numberline {4.6}Modello Ottimale}{76}{section.4.6}%
+\contentsline {chapter}{Conclusioni}{78}{chapter*.29}%
+\contentsline {chapter}{Bibliografia}{79}{chapter*.29}%

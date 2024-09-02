@@ -1,0 +1,160 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: files/ringraziamenti.aux
+A level-1 auxiliary file: files/capitoli/0-introduzione/0-introduzione.aux
+A level-1 auxiliary file: files/capitoli/1-object-detection/1-object-detection.aux
+A level-1 auxiliary file: files/capitoli/2-yolo/2-yolo.aux
+A level-1 auxiliary file: files/capitoli/3-data-augmentation/3-data-augmentation.aux
+A level-1 auxiliary file: files/capitoli/4-sperimentazione-risultati/4-sperimentazione-risultati.aux
+A level-1 auxiliary file: files/capitoli/5-conclusioni/5-conclusioni.aux
+The style file: plain.bst
+Database file #1: files/biblio.bib
+Warning--to sort, need author or key in 1
+Warning--to sort, need author or key in 2
+Too many commas in name 1 of "Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik" for entry 6
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun" for entry 10
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, Alexander C. Berg" for entry 11
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, Alexander C. Berg" for entry 11
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, Alexander C. Berg" for entry 11
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, Alexander C. Berg" for entry 11
+while executing---line 1049 of file plain.bst
+Warning--to sort, need author or key in 12
+Warning--to sort, need author or key in 13
+Too many commas in name 1 of "Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi" for entry 14
+while executing---line 1049 of file plain.bst
+Warning--to sort, need author or key in 22
+Too many commas in name 1 of "Chuyi Li, Lulu Li, Hongliang Jiang, Kaiheng Weng" for entry 24
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Dillon Reis, Jordan Kupec, Jacqueline Hong, Ahmad Daoudi" for entry 26
+while executing---line 1049 of file plain.bst
+Warning--to sort, need author or key in 27
+Too many commas in name 1 of "Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan" for entry 29
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan" for entry 29
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan" for entry 29
+while executing---line 1049 of file plain.bst
+Warning--to sort, need author or key in 30
+Too many commas in name 1 of "Yian Zhao, Wenyu Lv, Shangliang Xu, Jinman Wei, Guanzhong Wang, Qingqing Dang, Yi Liu, Jie Chen" for entry 31
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Yian Zhao, Wenyu Lv, Shangliang Xu, Jinman Wei, Guanzhong Wang, Qingqing Dang, Yi Liu, Jie Chen" for entry 31
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Yian Zhao, Wenyu Lv, Shangliang Xu, Jinman Wei, Guanzhong Wang, Qingqing Dang, Yi Liu, Jie Chen" for entry 31
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Yian Zhao, Wenyu Lv, Shangliang Xu, Jinman Wei, Guanzhong Wang, Qingqing Dang, Yi Liu, Jie Chen" for entry 31
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Yian Zhao, Wenyu Lv, Shangliang Xu, Jinman Wei, Guanzhong Wang, Qingqing Dang, Yi Liu, Jie Chen" for entry 31
+while executing---line 1049 of file plain.bst
+Warning--to sort, need author or key in 32
+Too many commas in name 1 of "Gang Zhang, Meina Kan, Shiguang Shan, Xilin Chen" for entry 37
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Zihan Yang, Richard Sinnott, Qiuhong Ke, James Bailey" for entry 38
+while executing---line 1049 of file plain.bst
+Warning--to sort, need author or key in 39
+Warning--to sort, need author or key in 40
+Warning--to sort, need author or key in 41
+Warning--to sort, need author or key in 43
+Warning--to sort, need author or key in 44
+Warning--empty journal in 21
+Warning--empty journal in 25
+Too many commas in name 1 of "Chuyi Li, Lulu Li, Hongliang Jiang, Kaiheng Weng" for entry 24
+while executing---line 1090 of file plain.bst
+Warning--empty journal in 24
+Too many commas in name 1 of "Dillon Reis, Jordan Kupec, Jacqueline Hong, Ahmad Daoudi" for entry 26
+while executing---line 1090 of file plain.bst
+Warning--empty journal in 26
+Too many commas in name 1 of "Gang Zhang, Meina Kan, Shiguang Shan, Xilin Chen" for entry 37
+while executing---line 1090 of file plain.bst
+Warning--empty journal in 37
+Warning--empty journal in 8
+Warning--empty journal in 18
+Warning--empty journal in 20
+Too many commas in name 1 of "Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi" for entry 14
+while executing---line 1090 of file plain.bst
+Warning--empty journal in 14
+Warning--empty journal in 36
+Warning--empty journal in 34
+Too many commas in name 1 of "Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik" for entry 6
+while executing---line 1090 of file plain.bst
+Warning--empty journal in 6
+Too many commas in name 1 of "Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun" for entry 10
+while executing---line 1090 of file plain.bst
+Warning--empty journal in 10
+Too many commas in name 1 of "Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan" for entry 29
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan" for entry 29
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan" for entry 29
+while executing---line 1090 of file plain.bst
+Warning--empty journal in 29
+Too many commas in name 1 of "Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, Alexander C. Berg" for entry 11
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, Alexander C. Berg" for entry 11
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, Alexander C. Berg" for entry 11
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, Alexander C. Berg" for entry 11
+while executing---line 1090 of file plain.bst
+Warning--empty journal in 11
+Too many commas in name 1 of "Yian Zhao, Wenyu Lv, Shangliang Xu, Jinman Wei, Guanzhong Wang, Qingqing Dang, Yi Liu, Jie Chen" for entry 31
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Yian Zhao, Wenyu Lv, Shangliang Xu, Jinman Wei, Guanzhong Wang, Qingqing Dang, Yi Liu, Jie Chen" for entry 31
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Yian Zhao, Wenyu Lv, Shangliang Xu, Jinman Wei, Guanzhong Wang, Qingqing Dang, Yi Liu, Jie Chen" for entry 31
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Yian Zhao, Wenyu Lv, Shangliang Xu, Jinman Wei, Guanzhong Wang, Qingqing Dang, Yi Liu, Jie Chen" for entry 31
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Yian Zhao, Wenyu Lv, Shangliang Xu, Jinman Wei, Guanzhong Wang, Qingqing Dang, Yi Liu, Jie Chen" for entry 31
+while executing---line 1090 of file plain.bst
+Warning--empty journal in 31
+Too many commas in name 1 of "Zihan Yang, Richard Sinnott, Qiuhong Ke, James Bailey" for entry 38
+while executing---line 1090 of file plain.bst
+Warning--empty journal in 38
+You've used 44 entries,
+            2118 wiz_defined-function locations,
+            655 strings with 9411 characters,
+and the built_in function-call counts, 8695 in all, are:
+= -- 851
+> -- 230
+< -- 0
++ -- 108
+- -- 62
+* -- 286
+:= -- 1421
+add.period$ -- 146
+call.type$ -- 44
+change.case$ -- 163
+chr.to.int$ -- 0
+cite$ -- 74
+duplicate$ -- 359
+empty$ -- 897
+format.name$ -- 62
+if$ -- 1898
+int.to.chr$ -- 0
+int.to.str$ -- 44
+missing$ -- 17
+newline$ -- 237
+num.names$ -- 62
+pop$ -- 346
+preamble$ -- 1
+purify$ -- 119
+quote$ -- 0
+skip$ -- 266
+stack$ -- 0
+substring$ -- 222
+swap$ -- 27
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 176
+warning$ -- 30
+while$ -- 62
+width$ -- 46
+write$ -- 439
+(There were 38 error messages)
